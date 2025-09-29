@@ -1,0 +1,31 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pt
+*.pth
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*.ipynb_checkpoint
+
+# --- Environments ---
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# --- Models & logs ---
+models/
+checkpoints/
+runs/
+wandb/
+
+# --- OS / Editor files ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
