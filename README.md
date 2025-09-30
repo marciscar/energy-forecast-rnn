@@ -24,7 +24,7 @@ Accurate load forecasting is critical for energy providers to optimize generatio
 ## Repository Structure
 
 energy-forecast-rnn/    
-├─ energy-forecast-rnn.ipynb # Notebook 
+├─ energy-forecast-rnn.ipynb # Notebook     
 ├─ data/ # raw CSVs    
 ├─ README.md    
 
