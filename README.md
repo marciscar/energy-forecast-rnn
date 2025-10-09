@@ -26,7 +26,7 @@ Accurate load forecasting is critical for energy providers to optimize generatio
 energy-forecast-rnn/    
 ├─ energy-forecast-rnn.ipynb # Notebook     
 ├─ figures/     
-│    └─ forecast_plot.pdf    # Plot showing the performance of the model
+│    └─ forecast_plot.pdf    # Plot showing the performance of the model    
 ├─ data/ # raw CSVs    
 ├─ models/  # Saved checkpoints (ignored by Git)    
 ├─ README.md    
